@@ -199,7 +199,5 @@ int main()
 	printf("====================================================\n");
 	
 	// ===== PART THREE: USER DRAWING NOT AVAILABLE THROUGH GITHUB =====
-	
-	}
 	return 0;
 }
