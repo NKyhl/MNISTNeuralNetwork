@@ -2,7 +2,7 @@ Nolan Kyhl
 Fundamentals of Computing
 Lab 11 - Digit Recognition Neural Network - README
 
-= This is really long, but I wanted to try to explain it so you have an idea and so I can work through the process =
+= This is long, but I wanted to try to explain it so you have an idea and so I can work through the process =
 
 CONTEXT:
 	This semester I've become really interested in machine learning. I watched a great video on the 3Blue1Brown
